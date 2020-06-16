@@ -13,11 +13,11 @@
 <img src="images/twilight_736.png" >
 
 ## Dusk
-<img src="images/dusk_757.png" >
-<img src="images/dusk_759.png" >
-<img src="images/dusk_761.png" >
-<img src="images/dusk_766.png" >
-<img src="images/dusk_769.png" >
+<img src="images/dusk_557.png" >
+<img src="images/dusk_559.png" >
+<img src="images/dusk_561.png" >
+<img src="images/dusk_566.png" >
+<img src="images/dusk_569.png" >
 
 ## Night
 <img src="images/night_451.png" >
