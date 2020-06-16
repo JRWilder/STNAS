@@ -1,10 +1,10 @@
 # STNAS
 
 ## Day
-<img src="images/day_751.png" >
-<img src="images/day_753.png" >
-<img src="images/day_756.png" >
-<img src="images/day_758.png" >
+<img src="images/Day_751.png" >
+<img src="images/Day_753.png" >
+<img src="images/Day_756.png" >
+<img src="images/Day_758.png" >
 
 ## Twilight
 <img src="images/twilight_729.png" >
