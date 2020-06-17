@@ -4,7 +4,7 @@ My team of four ECE students and I took on the task of being the first semester 
 My two main contributions to this project were developing the Sandbox testing environment which included overseeing its construction, and developing the machine learning model to accurately detect our 3D printed baby sea turtle models in a wide range of lighting conditions.
 
 ## Sandbox
-As our testing environment needed to simulate a real sea turtle nest, give consistent results, and be quickly and easily repeatable
+As our testing environment needed to simulate a real sea turtle nest and give quick and consistent results, we went with a design that resembled a raised sandbox. The Sandbox is 3' x 3' in area and 10" in height to model the real nest size, raised 2' off the ground so that a 10 gallon bucket can be placed underneath, a tarp to prevent sand escaping through spaces in the wooden boards, and has 16 0.5" holes drilled in the center that allows for variable sand release with a door slid underneath to prevent sand form escaping  
 <img src="images/bare_sandbox.JPG" >
 
 ## Turtle Detection: Day
