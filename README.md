@@ -5,31 +5,34 @@ My two main contributions to this project were developing the Sandbox testing en
 
 ## Sandbox
 As our testing environment needed to simulate a real sea turtle nest and give quick and consistent results, we went with a design that resembled a raised sandbox. The Sandbox is 3' x 3' in area and 10" in height to model the real nest size, raised 2' off the ground so that a 10 gallon bucket can be placed underneath, a tarp to prevent sand escaping through spaces in the wooden boards, and has 16 0.5" holes drilled in the center that allows for variable sand release with a door slid underneath to prevent sand from escaping. The contraption mounted on top of the Sandbox is our basic model of what we called the enclosure. The enclosure contains most of the electronics and is fixed so that the underside is 2' above the sand.
-<img src="images/bare_sandbox.JPG" >
+<img src="images/bare_sandbox.JPG">
+<img src="images/ensclosure_part.png">
+<img src="images/ensclosure_draw.png">
+<img src="images/ensclosure.STL">
 
 ## Turtle Detection: Day
-<img src="images/Day_751.png" >
-<img src="images/Day_753.png" >
-<img src="images/Day_756.png" >
-<img src="images/Day_758.png" >
+<img src="images/Day_751.png">
+<img src="images/Day_753.png">
+<img src="images/Day_756.png">
+<img src="images/Day_758.png">
 
 ## Turtle Detection: Twilight
-<img src="images/twilight_729.png" >
-<img src="images/twilight_732.png" >
-<img src="images/twilight_734.png" >
-<img src="images/twilight_736.png" >
+<img src="images/twilight_729.png">
+<img src="images/twilight_732.png">
+<img src="images/twilight_734.png">
+<img src="images/twilight_736.png">
 
 ## Turtle Detection: Dusk
-<img src="images/dusk_557.png" >
-<img src="images/dusk_559.png" >
-<img src="images/dusk_561.png" >
-<img src="images/dusk_566.png" >
-<img src="images/dusk_569.png" >
+<img src="images/dusk_557.png">
+<img src="images/dusk_559.png">
+<img src="images/dusk_561.png">
+<img src="images/dusk_566.png">
+<img src="images/dusk_569.png">
 
 ## Turtle Detection: Night
-<img src="images/night_451.png" >
-<img src="images/night_454.png" >
-<img src="images/night_456.png" >
-<img src="images/night_459.png" >
-<img src="images/night_462.png" >
-<img src="images/night_766.png" >
+<img src="images/night_451.png">
+<img src="images/night_454.png">
+<img src="images/night_456.png">
+<img src="images/night_459.png">
+<img src="images/night_462.png">
+<img src="images/night_766.png">
