@@ -8,7 +8,12 @@ As our testing environment needed to simulate a real sea turtle nest and give qu
 <img src="images/bare_sandbox.JPG">
 <img src="images/enclosure_part.png">
 <img src="images/enclosure_draw.png">
-<img src="SolidWorks/enclosure.STL">
+<img src="images/top_part.png">
+<img src="images/top_draw.png">
+<img src="images/bottom_part.png">
+<img src="images/bottom_draw.png">
+<img src="images/right_leg_part.png">
+<img src="images/right_leg_draw.png">
 
 ## Turtle Detection: Day
 <img src="images/Day_751.png">
